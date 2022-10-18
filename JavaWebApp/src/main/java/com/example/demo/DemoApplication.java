@@ -11,3 +11,6 @@ public class DemoApplication {
 	}
 
 }
+         string name = "allino";
+
+		 system.out.println(name);
